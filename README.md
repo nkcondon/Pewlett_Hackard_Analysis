@@ -21,8 +21,13 @@ The company leadership requested information on employees that would benefit fro
 
 ![image](https://user-images.githubusercontent.com/89953246/137544051-28b220ca-f437-4362-94f9-208cea04b416.png)
 
-
 ## Results
-
+1. The first analysis of collecting of eligible employees for retirement and positions effected did not exclude employees that had already left the organization.
+2. Total of over 90,000 positions was tabulated; when it was reduced to 72,458 employees. The two largest positions for both runs were Senior Engineer / Senior Staff.
+3. Qualified employees from the mentorship_eligibility list will only cover 1,940 of the positions.  It is understandable why the exercise calls it a "tsunami".
+4. ![image](https://user-images.githubusercontent.com/89953246/137547084-7b013d63-0e35-44a3-8f7c-9a1930b41864.png)
 
 ## Summary
+There will need to be 72,458 roles to be filled when the data is filtered to current staff.  Roles that will be significantly impacted is Senior Engineers / Senior Staff.
+For consideration is to expand the mentorship program eligibility dates, recommend an accelerated advancement and new-hire/replacement recruitment programs.
+Future analyses should include yearly retirement rates per role and probability analysis to help predict future retirements.
